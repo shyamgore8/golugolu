@@ -1,0 +1,5 @@
+This is my practice for the git hub
+Git storeas the data in three types
+    1.commit Object 
+    2.tree Object 
+    3.Blob Object--> Acctual code 
